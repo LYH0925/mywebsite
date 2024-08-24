@@ -68,10 +68,6 @@ posts = "/posts/:year/:month/:day/:slug/"
       en = "Your Name"
       cn = "刘昱航"
 
-    [params.lang.madeWith]
-      en = "Made with"
-      cn = "本站驱动"
-
     [params.lang.edit]
       en = "Suggest an edit of this page"
       cn = "编辑本页"
@@ -79,10 +75,6 @@ posts = "/posts/:year/:month/:day/:slug/"
     [params.lang.lastupdate]
       en = "Last modified on"
       cn = "最后一次修改于"
-
-    [params.lang.Sitelastupdate]
-      en = "Site last updated on"
-      cn = "最近一次更新于"
 
     [params.lang.sourceCode]
       en = "Content in"
