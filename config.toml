@@ -54,7 +54,7 @@ posts = "/posts/:year/:month/:day/:slug/"
     copyright = "&copy;"
     copyrightYear = "2024-"
     favicon = "“
-    GithubRepo ="https://github.com/LYH0925/mywebsite"
+    GithubRepo ="https://github.com/LYH0925/mywebsite/"
     # Edit by yourself:
     ContentSource = "https://raw.githubusercontent.com/LYH0925/mywebsite/master/content/" 
 
