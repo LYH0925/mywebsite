@@ -1,7 +1,7 @@
 baseURL = "https://lyh0925.vercel.app/"
 languageCode = "en-us"
 title = "LYH"
-theme = "ht10.png"
+theme = "hugo-ht"
 footnotereturnlinkcontents = "↩"
 enableRobotsTXT = true
 # enableGitInfo = true
