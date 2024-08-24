@@ -1,4 +1,4 @@
-baseURL = "https://example.com/"
+baseURL = "https://lyh0925.vercel.app/"
 languageCode = "en-us"
 title = "Hugo-HT"
 theme = "hugo-ht"
@@ -51,13 +51,13 @@ posts = "/posts/:year/:month/:day/:slug/"
     MathJaxVersion = "2.7.5"
     favicon = "media/hugo-logo.png"
     # Edit by yourself:
-    GithubEdit = "https://github.com/USERNAME/REPONAME/edit/main/content/"
+    GithubEdit = "https://github.com/LYH0925/mywebsite/edit/master/content/"
     copyright = "&copy;"
     copyrightYear = "2020-2021"
     # Edit by yourself:
-    GithubRepo = "https://github.com/USERNAME/REPONAME"
+    GithubRepo ="https://github.com/LYH0925/mywebsite"
     # Edit by yourself:
-    ContentSource = "https://raw.githubusercontent.com/USERNAME/REPONAME/main/content/" 
+    ContentSource = "https://raw.githubusercontent.com/LYH0925/mywebsite/master/content/" 
 
 [params.logo]
   # Change the logo picture as your prefer:
@@ -67,7 +67,7 @@ posts = "/posts/:year/:month/:day/:slug/"
 
     [params.lang.author]
       en = "Your Name"
-      cn = "你的名字"
+      cn = "刘昱航"
 
     [params.lang.madeWith]
       en = "Made with"
