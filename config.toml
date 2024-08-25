@@ -82,6 +82,10 @@ posts = "/posts/:year/:month/:day/:slug/"
     [params.lang.Sitelastupdate]
       en = "Site last updated on"
       cn = "最近一次更新于"
+    
+    [params.lang.sourceCode]
+      en = "Content in"
+      cn = "内容存于"
 
     [params.lang.subscribe]
       en = "Subscribe"
