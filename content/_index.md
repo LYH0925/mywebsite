@@ -4,6 +4,6 @@ title: Home
 
 {{<figure src="https://s2.loli.net/2024/08/24/KjNTgZkzERG76Xr.jpg" title="2022 in HangZhou" width="450">}}
 
-I was born on Mars in 2011. Four days after my birth, I moved to the Earth with my family. There, what I saw shocked me greatly. 
+Welcome to my homepage! My name is Yuhang Liu. I am now a senior undergraduate student majoring in journalism at Zhejiang Gongshang University, advised by Prof. Zheng Liu. I’m really into interdisciplinary knowledge, open-source tech, and exploring human group behavior. Currently， I’ve been exploring computational social Science and AIGC-related fields.
 
-这是我 2011 年在火星出生后第三天的照片。第四天，我被运往地球，在那里看到的东西把我吓傻了。
+这里是刘昱航，Yuhang Liu的个人主页,我是浙江工商大学新闻系的大四学生.
