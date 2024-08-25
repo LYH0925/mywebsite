@@ -78,10 +78,6 @@ posts = "/posts/:year/:month/:day/:slug/"
      [params.lang.lastupdate]
       en = "Last modified on"
       cn = "最后一次修改于"
-
-    [params.lang.Sitelastupdate]
-      en = "Site last updated on"
-      cn = "最近一次更新于"
          
     [params.lang.Sitelastupdate]
       en = "Site last updated on"
