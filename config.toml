@@ -52,17 +52,14 @@ posts = "/posts/:year/:month/:day/:slug/"
     GithubEdit = "https://github.com/LYH0925/mywebsite/edit/master/content/"
     copyright = "&copy;"
     copyrightYear = "2024-2025"
-    favicon = "LYH.png"
+    favicon = ""
     GithubRepo = "https://github.com/LYH0925/mywebsite"
     # Edit by yourself:
     ContentSource = "https://raw.githubusercontent.com/LYH0925/mywebsite/master/content/" 
 
 [params.logo]
   # Change the logo picture as your prefer:
-  url = "LYH.png"
-  width = 50.0
-  height = 50.0
-  alt = "LY"
+  url = ""
 
 [params.lang]
 
