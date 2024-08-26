@@ -59,7 +59,10 @@ posts = "/posts/:year/:month/:day/:slug/"
 
 [params.logo]
   # Change the logo picture as your prefer:
-  url = "ht10.png" # you can change it
+  url = "image/image.png"
+  width = 50.0
+  height = 50.0
+  alt = "LYH0925"
 
 [params.lang]
 
