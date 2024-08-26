@@ -62,7 +62,7 @@ posts = "/posts/:year/:month/:day/:slug/"
   url = "LYH.png"
   width = 50.0
   height = 50.0
-  alt = "LYH0925"
+  alt = "LY"
 
 [params.lang]
 
