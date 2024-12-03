@@ -31,7 +31,7 @@ posts = "/posts/:year/:month/:day/:slug/"
     description = "LYH"
     homeText = "Liu Yuhang's Personal Website"
     # Please make sure `blogDirNmae` matches the name used in `menu` above:
-    blogDirName = "posts"
+    blogDirName = "research"
     # singleLang = true
     defaultLang = "en"
     MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs" 
