@@ -1,4 +1,4 @@
-baseURL = "https://lyh0925.vercel.app/"
+baseURL = "https://lyh0925.com"
 languageCode = "en-us"
 title = "LYH"
 theme = "hugo-ht"
@@ -59,7 +59,7 @@ posts = "/posts/:year/:month/:day/:slug/"
 
 [params.logo]
   # Change the logo picture as your prefer:
-  url = "ht10.png" # you can change it
+  url = ""
 
 [params.lang]
 
