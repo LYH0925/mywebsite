@@ -1,6 +1,6 @@
 baseURL = "https://lyh0925.com"
 languageCode = "en-us"
-title = "LYH"
+title = "liuyuhang0925"
 theme = "hugo-ht"
 enableRobotsTXT = true
 # enableGitInfo = true
