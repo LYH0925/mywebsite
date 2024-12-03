@@ -19,8 +19,8 @@ posts = "/posts/:year/:month/:day/:slug/"
     url = "/en/about/"
     weight = 2
 [[menu.en]]
-    name = "Posts"
-    url = "/en/posts/"
+    name = "Research"
+    url = "/en/research/"
     weight = 3
 [[menu.cn]]
     name = "English"
