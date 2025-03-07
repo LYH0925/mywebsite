@@ -8,4 +8,4 @@ Welcome to my homepage! I'm Yuhang Liu, a senior undergraduate student majoring 
 
 [CV](cv/liuyuhangcv.pdf)
 
-这里是刘昱航，Yuhang Liu的个人主页,我目前浙江工商大学新闻系的大四学生，我很荣幸被录取至德克萨斯大学奥斯汀分校（UT Austin）新闻与媒体学院的研究与理论方向（Research & Theory track），我将在八月底入学！
+这里是刘昱航，Yuhang Liu的个人主页,我目前浙江工商大学新闻系的大四学生，我很荣幸被录取至德克萨斯大学奥斯汀分校（UT Austin）新闻与媒体学院的研究与理论方向的硕士，我将在八月底入学！
